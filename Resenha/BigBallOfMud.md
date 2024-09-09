@@ -45,7 +45,7 @@ Ao contrário do BBM, padrões como **PIPELINE** e **LAYERED ARCHITECTURE** prom
 **Uso de ferramentas de análise de código:** Empregar ferramentas para identificar gargalos, duplicidade de código e outras questões relacionadas à qualidade do software.
 **Reconstrução:** Em casos extremos, a reconstrução total do sistema pode ser a única solução viável.
 
-# Conclusão
+## Conclusão
 
 Foote e Yoder argumentam que o **Big Ball of Mud** (BBM) não deve ser visto como um "anti-padrão", mas como um padrão real devido à sua prevalência e eficácia em muitos contextos. Embora o ideal seja evitar essa arquitetura desordenada, as pressões práticas do desenvolvimento frequentemente tornam inevitável a adoção desse modelo. A chave para enfrentar essas situações é compreender as forças que levam ao BBM e buscar formas de mitigar seus efeitos, com o objetivo de eventualmente alcançar uma arquitetura mais robusta e duradoura.
 
